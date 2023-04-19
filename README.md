@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ilyas from Indonesia</h1>
-<h3 align="center">I love learning technology</h3>
+<h1>Hi 👋, I'm Ilyas from Indonesia</h1>
+<h3>I love learning technology</h3>
 
 - 🌱 I’m currently learning **Go, Kubernetes, and Backend Technologies**
-
-- 👨‍💻 All of my projects are available at [www.placeholder.com](www.placeholder.com)
 
 - 📫 How to reach me **aip.ilyasa@gmail.com**
 
