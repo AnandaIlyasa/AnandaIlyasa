@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Ilyas from Indonesia</h1>
+<h1>Hi 👋, I'm Ilyas</h1>
 <h3>I love learning technology</h3>
 
 - 🌱 I’m currently learning **Go, Kubernetes, and Backend Technologies**
