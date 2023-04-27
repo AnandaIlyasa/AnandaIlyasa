@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Ilyas</h1>
 <h3>I love learning technology</h3>
 
-- 🌱 I’m currently learning **Go, Kubernetes, and Backend Technologies**
+- 🌱 I’m currently learning **Go**
 
 - 📫 How to reach me **aip.ilyasa@gmail.com**
 
