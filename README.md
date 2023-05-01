@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 🌏 **I am actively seeking way to contribute in OSS community**
+- 🌏 🌍 🌎 **I am actively seeking way to contribute in OSS community**
 
 - 📫 How to reach me **aip.ilyasa@gmail.com**
 
