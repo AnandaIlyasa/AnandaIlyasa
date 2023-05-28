@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 🌏 🌍 🌎 **I am actively seeking way to contribute in OSS community**
-
 - 📫 How to reach me **aip.ilyasa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
